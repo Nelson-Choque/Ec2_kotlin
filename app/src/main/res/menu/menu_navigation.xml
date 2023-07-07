@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Mapa" android:id="@+id/action_maps" />
+    <item android:title="Camara" android:id="@+id/action_camara" />
+    <item android:title="info" android:id="@+id/action_info" />
+</menu>

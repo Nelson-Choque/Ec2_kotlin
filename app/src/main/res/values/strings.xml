@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EC2_choque_nelson</string>
+    <string name="MAPS_API_KEY" translatable="false">AIzaSyB2uHJyStp6YaTPqP-swLRhGS5-9ngFqMI</string>
+</resources>
